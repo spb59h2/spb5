@@ -1,4 +1,5 @@
 Essential COM by Don Box (PDF e-book)
+(pdf file was zipped and devided into two parts because of the github restrictions on a file size)
 
 This is a PDF e-book of the Essential COM book, written by Don Box and published in 1998.
 
